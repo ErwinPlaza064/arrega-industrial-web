@@ -1,0 +1,1 @@
+# arrega-industrial-web
