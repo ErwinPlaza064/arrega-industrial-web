@@ -9,6 +9,7 @@ Maqueta HTML de un solo archivo (`index.html`) del rediseño de arregaindustrial
 - `#/acceso` Acceso a clientes (solo diseño, no se conecta al portal)
 
 ## Notas
+- Versión H: video en el héroe (motion graphic de muestra incrustado, reemplazar por video real), sección "cine" a pantalla completa, frase que se ilumina al hacer scroll, revelados, contadores, zoom de fotos y parallax. Respeta `prefers-reduced-motion`.
 - Estilo claro: blanco, arena y ámbar `#F8A826`; Plus Jakarta Sans y Hanken Grotesk.
 - Fotos de referencia incrustadas en base64 (tomadas del sitio actual); se reemplazan con fotos propias.
 - Datos marcados "por confirmar" (teléfono, WhatsApp, certificado ANAB, cifras) y testimonios son de ejemplo.
